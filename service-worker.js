@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ff627f58b3c24a9e463850e82369993c.js"
+  "/precache-manifest.641457f8fcd46dfad1c7ec812197ddd6.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "passalabomba"});
